@@ -1,0 +1,18 @@
+[submodule "MicroServiceTraitement-Calcul-Automatis-Racine-Poylynomes"]
+	path = MicroServiceTraitement-Calcul-Automatis-Racine-Poylynomes
+	url = https://github.com/NOUTAILAA/MicroServiceTraitement-Calcul-Automatis-Racine-Poylynomes.git
+[submodule "MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes"]
+	path = MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes
+	url = https://github.com/NOUTAILAA/MicroServiceTraitement2-Calcul-Automatis-Racine-Poylynomes-.git
+[submodule "MicroServiceTraitement3-Calcul-Automatis-Racine-Poylynomes"]
+	path = MicroServiceTraitement3-Calcul-Automatis-Racine-Poylynomes
+	url = https://github.com/NOUTAILAA/MicroServiceTraitement3-Calcul-Automatis-Racine-Poylynomes.git
+[submodule "MicroServiceStockage_CalculAutomatiseRacinePolynome"]
+	path = MicroServiceStockage_CalculAutomatiseRacinePolynome
+	url = https://github.com/NOUTAILAA/MicroServiceStockage_CalculAutomatiseRacinePolynome.git
+[submodule "CalculPolynomial_Front_Web"]
+	path = CalculPolynomial_Front_Web
+	url = https://github.com/NOUTAILAA/CalculPolynomial_Front_Web.git
+[submodule "CalculPolynomial_Front_Mobile"]
+	path = CalculPolynomial_Front_Mobile
+	url = https://github.com/NOUTAILAA/CalculPolynomial_Front_Mobile.git
